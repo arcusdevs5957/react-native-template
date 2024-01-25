@@ -1,0 +1,29 @@
+{
+    "name": "@arcusdevs5957/react-native-template",
+    "version": "1.0.0",
+    "description": "ArcusDevs React Native Boilerplate",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:arcusdevs5957/react-native-template.git"
+    },
+    "author": "Arcus Karthikeyan <https://github.com/KarthiKeyan05046>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/arcusdevs5957/react-native-template/issues"
+    },
+    "homepage": "https://arcusdevs5957.github.io/react-native-template/",
+    "main": "post-init.script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react",
+        "native",
+        "template",
+        "arcusdevs",
+        "react-native",
+        "starter-kit"
+    ],
+    "dependencies": {},
+    "devDependencies": {}
+}
