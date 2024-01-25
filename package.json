@@ -6,6 +6,10 @@
         "type": "git",
         "url": "git@github.com:arcusdevs5957/react-native-template.git"
     },
+    "files": [
+        "template",
+        "template.config.js"
+    ],
     "author": "Arcus Karthikeyan <https://github.com/KarthiKeyan05046>",
     "license": "MIT",
     "bugs": {
