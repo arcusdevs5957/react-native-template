@@ -1,14 +1,10 @@
-<div align="center">
-    <img src="documentation/static/img/tom-github-banner.png" alt="Logo" width="100%">
+<div align="center" style="background-color:#FFF;width:100%;padding:10px;margin-bottom:10px;border-radius:10px">
+    <img src="https://arcus.co.in/wp-content/uploads/2020/11/Arcus-Logo-Final-02-167x61.png" alt="Logo" width="50%">
 </div>
 
-![React Native Boilerplate License](https://img.shields.io/github/license/thecodingmachine/react-native-boilerplate)
-![React Native Boilerplate Release Date](https://img.shields.io/github/release-date/thecodingmachine/react-native-boilerplate)
-![React Native Boilerplate Download](https://flat.badgen.net/npm/dt/@thecodingmachine/react-native-boilerplate)
-![React Native Boilerplate Top Language](https://img.shields.io/github/languages/top/thecodingmachine/react-native-boilerplate)
-[![CI](https://github.com/thecodingmachine/react-native-boilerplate/actions/workflows/CI.yml/badge.svg)](https://github.com/thecodingmachine/react-native-boilerplate/actions/workflows/CI.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# TheCodingMachine React Native boilerplate
+# Arcus Devs React Native Template
 
 This project is a [React Native](https://facebook.github.io/react-native/) boilerplate that can be used to kickstart a mobile application.
 
