@@ -2,10 +2,8 @@
     "name": "@arcusdevs5957/react-native-template",
     "version": "1.0.0",
     "description": "ArcusDevs React Native Boilerplate",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:arcusdevs5957/react-native-template.git"
-    },
+    "repository": "arcusdevs5957/react-native-template",
+    "preferGlobal": true,
     "files": [
         "template",
         "template.config.js"
