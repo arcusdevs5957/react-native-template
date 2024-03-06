@@ -27,7 +27,7 @@ Follow instructions for your given `development OS` and `target OS`.
 To create a new project using the boilerplate simply run :
 
 ```
-npx react-native@0.72.10 init MyApp --template https://github.com/arcusdevs5957/react-native-template.git
+npx react-native init MyApp --template https://github.com/arcusdevs5957/react-native-template.git
 ```
 
 Assuming you have all the requirements installed, you can run the project by running:
