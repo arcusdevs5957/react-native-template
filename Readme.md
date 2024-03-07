@@ -39,17 +39,25 @@ Assuming you have all the requirements installed, you can run the project by run
 
 Nothing makes it into Ignite unless it's been proven on projects that Infinite Red works on. Ignite apps include the following rock-solid technical decisions out of the box:
 
-| Library           | Category             | Version | Description                                    |
-| ----------------- | -------------------- | ------- | ---------------------------------------------- |
-| React Native      | Mobile Framework     | v0.73   | The best cross-platform mobile framework       |
-| React             | UI Framework         | v18     | The most popular UI framework in the world     |
-| TypeScript        | Language             | v5      | Static typechecking                            |
-| RN Reanimated     | Animations           | v3      | Beautiful and performant animations            |
-| AsyncStorage      | Persistence          | v1      | State persistence                              |
-| axios             | REST client          | v2      | Communicate with back-end                      |
-| Hermes            | JS engine            |         | Fine-tuned JS engine for RN                    |
-| dayjs             | Date library         | v2      | Excellent date library                         |
-| FlashList         | FlatList replacement | v1      | A performant drop-in replacement for FlatList  |
+| Library                            | Category             | Version  | Description                                         |
+| ---------------------------------- | --------------------| -------- | --------------------------------------------------- |
+| @react-native-community/masked-view | UI Component         | v0.1.11  | A component for rendering masked views in React Native |
+| @react-navigation/native           | Navigation           | v6.1.9   | Navigation library for React Native applications   |
+| @react-navigation/native-stack     | Navigation           | v6.9.17  | Stack navigator for React Navigation               |
+| @reduxjs/toolkit                   | State Management     | v2.1.0   | Toolkit for efficient Redux development            |
+| axios                              | REST client          | v1.6.6   | Promise-based HTTP client for the browser and Node.js |
+| react                              | UI Framework         | v18      | A JavaScript library for building user interfaces  |
+| react-native                       | Mobile Framework     | v0.72.10 | Cross-platform framework for building mobile apps  |
+| react-native-gesture-handler       | UI Component         | v2.14.1  | Component for handling gestures in React Native   |
+| react-native-mmkv                  | Utility              | v2.11.0  | High-performance key-value storage for React Native |
+| react-native-paper                 | UI Component         | v5.12.3  | Material Design components for React Native       |
+| react-native-reanimated            | Animations           | v3.6.1   | React Native library for fluid user interfaces    |
+| react-native-safe-area-context     | UI Component         | v4.8.2   | Provides safe area insets for React Native apps   |
+| react-native-screens               | UI Component         | v3.29.0  | Native navigation primitives for React Native     |
+| react-native-vector-icons          | UI Component         | v10.0.3  | Customizable icons for React Native applications |
+| react-redux                        | State Management     | v9.1.0   | Official React bindings for Redux                 |
+| redux-persist                      | State Management     | v6.0.0   | Persist and rehydrate a Redux store               |
+
 
 ## Documentation
 
