@@ -22,7 +22,7 @@ You also need to install the dependencies required by React Native.
 Go to the [React Native environment setup](https://reactnative.dev/docs/environment-setup), then select `React Native CLI Quickstart` tab.  
 Follow instructions for your given `development OS` and `target OS`.
 
-## Quick start
+## Quick star
 
 To create a new project using the boilerplate simply run :
 
